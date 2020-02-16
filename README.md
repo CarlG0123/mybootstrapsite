@@ -1,2 +1,1 @@
-# mybootstrapsite
-my first experimentation with bootstrap
+TinDog Starting Files
